@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Kriya Gupta! 👋
 
-<!--
-**kriyagupta/kriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer looking to build cool projects and learn new technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript python bootsrap django
+- **Tools:** VS Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- 🌱 I’m currently learning **python django**.
+- 👯 I’m looking to collaborate on **Open Source projects**.
+- 🥅 2026 Goals: Contribute more to the dev community.
+
+### ⚡ GitHub Stats
+![Kriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriyagupta&show_icons=true&theme=radical)
+
+---
+
+-

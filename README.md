@@ -3,7 +3,7 @@
 I am a passionate developer looking to build cool projects and learn new technologies.
 
 ### 🛠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript python bootsrap django
+- **Languages:** HTML, CSS, JavaScript python bootstrap django
 - **Tools:** VS Code, Git, GitHub
 
 ### 🔭 Current Focus
@@ -13,6 +13,9 @@ I am a passionate developer looking to build cool projects and learn new technol
 
 ### ⚡ GitHub Stats
 ![Kriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriyagupta&show_icons=true&theme=radical)
+
+My [LinkedIn](https://www.linkedin.com/in/kriya-gupta-1a1364293)
+
 
 ---
 
